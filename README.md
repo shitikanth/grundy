@@ -50,5 +50,5 @@ in the dist directory.
 P.S. I have no rights to distribute msvcm90.dll, msvcp90.dll, msvcr90.dll
 
 REFERENCES
-[www.math.ucla.edu/~tom/Game_Theory/comb.pdf]
-[web.mit.edu/sp.268/www/nim.pdf]
+[MIT][web.mit.edu/sp.268/www/nim.pdf]
+[UCLA][www.math.ucla.edu/~tom/Game_Theory/comb.pdf]
