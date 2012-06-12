@@ -13,7 +13,6 @@ For the purpose of this module, we need two results:
     is given by the Grundy number (also called nimber) of the game.
     If G_1 to G_k are the games reachable from G,
     g(G) = mex({g(G_1),...,g(G_k)})
-
     mex of a set of integers is defined to be the smallest non-negative
     integer not in that set.
 
@@ -24,6 +23,7 @@ For the purpose of this module, we need two results:
 
 
 REMARKS
+--------
 The code is very far from the goal of being a generic solver. I will
 get around to writing it when I have the time.
 
@@ -37,6 +37,7 @@ suggested by a friend.
 > A player who cannot draw a suitable line loses.
 
 USAGE
+------
 To play the game as Bob (computer plays first), do 
 `python player.py N`
 where N is the number of points on the circle.
