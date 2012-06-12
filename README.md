@@ -15,7 +15,6 @@ For the purpose of this module, we need two results:
     g(G) = mex({g(G_1),...,g(G_k)})
     mex of a set of integers is defined to be the smallest non-negative
     integer not in that set.
-
 2.  If G and H are two games, their sum G+H is defined as the game
     where the two games are to be played simultaneously, i.e., 
     in her turn, the player will have to choose one of the games
